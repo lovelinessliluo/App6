@@ -9,6 +9,7 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-
+        <Button Name="123"/>
+        <Button Name="456"/>
     </Grid>
 </Page>
